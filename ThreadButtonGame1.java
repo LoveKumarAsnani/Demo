@@ -12,7 +12,7 @@ class ThreadButtonGame1 implements ActionListener,MouseMotionListener{
 	JFrame win=new JFrame();
 	
 			
-		//checking 
+		
 				
 	JLabel l1=new JLabel("***\n***");
 	JLabel l2=new JLabel("***\n***");
